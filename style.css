@@ -1,0 +1,27 @@
+html{
+    display:flex;
+    text-align:center;
+    justify-content:center;
+    align-items:center;
+    background-color:hsl(212, 45%, 89%);
+    height:100vh;
+}
+
+
+.qr{
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 1rem;
+    width: 15.6rem;
+    padding: 1em;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img{
+    max-width: 100%;
+    border-radius: .75rem;
+}
+
+h1, p{
+    background-color:white;
+}
